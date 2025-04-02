@@ -3,7 +3,7 @@ document.addEventListener("DOMContentLoaded", function() {
     const targetDate = new Date('April 3, 2025 12:00:00').getTime();
     
     // URL a la que redirigir cuando termine la cuenta regresiva
-    const redirectURL = "https://google.com";
+    const redirectURL = "https://cartacumple.onrender.com/";
 
     // Función para redirigir
     function redirectNow() {
